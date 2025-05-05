@@ -1,5 +1,5 @@
 Проекты на чистый html, css:
-- https://github.com/kyusaky/tex
+- [Inhouse]https://github.com/kyusaky/tex
   
 Проекты на чистом js: 
-- https://github.com/kyusaky/js
+- [Придумайте сами]https://github.com/kyusaky/js
